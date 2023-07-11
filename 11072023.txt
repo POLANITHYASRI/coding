@@ -1,0 +1,22 @@
+#power of an number
+n=int(input())
+
+b=int(input())
+
+p=pow(n,b)
+
+print(p)
+------------------------------------------------------------------------
+#factorial of  an number
+n=int(input())
+f=1
+for i in range(1,n+1):
+     f=f*i
+print(f)
+--------------------------------------------------------------------------
+#factors for a given no
+n=int(input())
+for i in range(1,n+1):
+	if(n%==0):
+		print(i)
+----------------------------------------------------------------
