@@ -1,0 +1,10 @@
+#Program for to reverse a number
+n=input()
+
+print(n[::-1])
+
+---------------------------------------------------------------------------------------
+#program for to check the given no is palindrome/not
+n=input()
+if(n[::]==n[::-1]):
+	print("palindrome)
