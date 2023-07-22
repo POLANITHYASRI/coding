@@ -1,0 +1,15 @@
+given data
+find no of 2wheeler and 4 wheeler vehicles by using given data
+program:
+input=200(vehicles)
+output=540(wheels)
+w=540
+v=200
+
+tw=((4*v)-w)//2
+
+fw=v-tw
+
+print(tw,"two wheelers")
+
+print(fw,"four wheelers")
